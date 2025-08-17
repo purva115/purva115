@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [pjagtap1@charlotte.edu](mailto:pjagtap1@charlotte.edu)
 
-- Achivements- Best first time hack winner at MLH SHELLHACKS 2024 FIU Miami, First position Winner of TECHNEX 2023 NMIMS India
+- Achivements- First winner in the National Level Project Competition - TECHCULT 2022 ,  Recognized for building GenAI-based Deployment Tracker - SmartOps AT&T 
+Radiant Recognition event
 <!-- - ⚡ Fun fact: -->
 
 [![Purva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purva115&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/purva115)
