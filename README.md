@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning - Transformers, LLM, RAG systems and MCP.
-- 👯 I’m looking to collaborate on - Ml and Full stack technologies like React, Express, Django, Next js, firebase, Mongo DB
+- 👯 I’m looking to collaborate on - ML and Full stack technologies like React, Express, Django, Next js, firebase, Mongo DB
 
 - 📫 How to reach me: [pjagtap1@charlotte.edu](mailto:pjagtap1@charlotte.edu)
 
