@@ -1,4 +1,4 @@
-## Hello there My Name is Purva Jagtap 👋
+## Hello there, My Name is Purva Jagtap 👋
 
 
 
