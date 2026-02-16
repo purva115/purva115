@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 Radiant Recognition event
 <!-- - ⚡ Fun fact: -->
 
-[![Purva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purva115&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/purva115)
+[![Purva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purva115&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/purva115)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purva115&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/purva115)
