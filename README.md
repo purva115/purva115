@@ -3,11 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;ML+Explorer;Future+Software+Architect;Always+On+Final+Lap+Mode+🏎️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Machine+Learning+Explorer;Designing+Scalable+Systems;Future+Software+Architect" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="350" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00C2FF&height=150&section=footer"/>
 </p>
 
 ---
