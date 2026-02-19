@@ -1,11 +1,6 @@
 <h1 align="center">
   🚀 Purva Jagtap
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Machine+Learning+Explorer;Designing+Scalable+Systems;Future+Software+Architect" />
-</p>
-
 ---
 
 <p align="center">
