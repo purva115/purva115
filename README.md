@@ -11,7 +11,7 @@ Building intelligent systems, scalable architectures, and AI-powered products.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00C2FF&height=200&section=header&text=Purva%20Jagtap&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00C2FF&height=200&section=header"/>
 </p>
 
 ---
