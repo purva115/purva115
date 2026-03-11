@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Software Engineer | Future Software Architect | ML & AI Enthusiast
+🚀 Software Engineer | Aspiring Software Architect | ML & AI Enthusiast
 </h3>
 
 <p align="center">
@@ -59,38 +59,13 @@ Building intelligent systems, scalable architectures, and AI-powered products.
 
 ---
 
-# 🚀 Featured Projects
-
-### 🤖 GenAI Deployment Tracker
-AI-powered bot that monitors deployments and alerts teams in real-time.
-
-**Tech Stack**
-
-Python • Azure • Webhooks • Automation  
-
----
-
-### 🧠 AI Governance Control Extractor
-LLM pipeline that extracts cybersecurity controls from regulatory documents.
-
-**Tech Stack**
-
-RAG • LLMs • NLP • Python  
-
----
-
-### 🌱 Smart Greenhouse Automation
-Automated greenhouse monitoring system with sensor data tracking and analytics.
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=purva115&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=purva115&theme=tokyonight"/>
 
 </p>
 
